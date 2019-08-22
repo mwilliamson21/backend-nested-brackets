@@ -49,4 +49,3 @@ def valid_parentheses(string):
     if len(stack) != 0:
         return False
     return True
-
